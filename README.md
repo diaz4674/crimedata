@@ -14,13 +14,13 @@ API Info
 
 -HEADER Parameters:  
 
-X-RapidAPI-Host: jgentes-Crime-Data-v1.p.rapidapi.com  
-X-RapidAPI-Key: SIGN-UP-FOR-KEY  
+     X-RapidAPI-Host: jgentes-Crime-Data-v1.p.rapidapi.com  
+     X-RapidAPI-Key: SIGN-UP-FOR-KEY  
 
 
 -REQUIRED Parameters:  
 
-startdate = [STRING]  
-enddate = [STRING]  
-lat = [INTEGER]  
-long = [INTEGER]  
+    startdate = [STRING]  
+    enddate = [STRING]  
+    lat = [INTEGER]  
+    long = [INTEGER]  
