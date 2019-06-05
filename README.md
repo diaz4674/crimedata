@@ -9,18 +9,18 @@ API instructions can be found here: https://www.mashape.com/jgentes/crime-data
 
 
 
-API Info
-===================
+API Info  
+===================  
 
-Header Parameters:
+-HEADER Parameters:  
 
-X-RapidAPI-Host: jgentes-Crime-Data-v1.p.rapidapi.com
-X-RapidAPI-Key: SIGN-UP-FOR-KEY
+X-RapidAPI-Host: jgentes-Crime-Data-v1.p.rapidapi.com  
+X-RapidAPI-Key: SIGN-UP-FOR-KEY  
 
 
-Required Parameters:
+-REQUIRED Parameters:  
 
 startdate = [STRING]  
-enddate = [STRING]
-lat = [INTEGER]
-long = [INTEGER]
+enddate = [STRING]  
+lat = [INTEGER]  
+long = [INTEGER]  
